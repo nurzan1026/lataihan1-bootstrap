@@ -1,0 +1,16 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontSize": 14,
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.fontSize": 12,
+    "editor.lineHeight": 1.5,
+    "workbench.colorCustomizations": {
+      "activityBar.background": "#164e63",
+      "activityBar.activeBackground": "#0f766e",
+      "titleBar.activeBackground": "#0f766e",
+      "statusBar.background": "#0e7490"
+    }
+  }
+  
